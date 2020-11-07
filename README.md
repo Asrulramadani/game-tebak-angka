@@ -1,6 +1,6 @@
 # gaem-tebak-angka
 
 dibuat dengan :
--HTML
--CSS
--Javascript
+HTML
+CSS
+Javascript
