@@ -12,14 +12,13 @@ $blue  : lightskyblue;
 section {
     width: 100%;
     height: 100vh;
-    display: flex;
-    justify-content: center;
 
 
     .container {
         margin-top: 30px;
-        max-width: 700px;
-        height: 300px;
+        max-width: 500px;
+        height: auto;
+        margin: 20px auto;
         padding: 1rem 3.5rem;
         border: 3px solid $blue;
         border-radius: .8rem;
@@ -32,8 +31,9 @@ section {
         justify-content: center;
         align-items: center;
         text-align: center;
+
         
-        h1,h2,input,button {
+        h1,h2,input,button{
             margin-bottom: 1rem;
         }
         h1{
